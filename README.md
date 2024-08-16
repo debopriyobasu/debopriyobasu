@@ -11,7 +11,7 @@ Software Engineer (Frontend)
 * 🚀  I'm currently working on [ProperTea](http://github.com/debopriyobasu/ProperTea)
 * 🧠  I'm learning Next.js and front-end design patterns
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  I use Arch btw...
+* ⚡  I am a speed typing enthusiast. Currently #51 on Typeracer India leaderboard.
 
 ### Skills
 
