@@ -2,14 +2,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am Debopriyo! 
 ======================================================================================================================================
 
-Software Engineer (Frontend)
+Software Engineer (Full-stack)
 ----------------------------
 
 * 🌍  I'm based in Kolkata, India
 * 🖥️  See my portfolio at [debopriyobasu.in](http://debopriyobasu.in)
 * ✉️  You can contact me at [debopriyobasu@gmail.com](mailto:debopriyobasu@gmail.com)
 * 🚀  I'm currently working on [ProperTea](http://github.com/debopriyobasu/ProperTea)
-* 🧠  I'm learning Next.js and front-end design patterns
+* 🧠  I'm learning software architecture design patterns
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I am a speed typing enthusiast. Currently #51 on Typeracer India leaderboard.
 
